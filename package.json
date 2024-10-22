@@ -10,6 +10,7 @@
     "typescript": "5.6.2"
   },
   "dependencies": {
+    "aws-api-gateway-cli-test": "^1.3.2",
     "sst": "^3"
   }
 }
